@@ -1,0 +1,7 @@
+things to do 
+  camera calibration
+  read about SLAM
+  ready a chessboard for calibration
+  
+  Controller team
+  install and learn gajebo
