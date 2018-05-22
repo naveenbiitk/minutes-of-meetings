@@ -1,0 +1,7 @@
+calibrated the dabba's webcam
+installed usb camera
+Ran the camera calibration on chessboard using webcam
+
+Now work to do
+  learn to write rules on UDEV
+  run the aruco marker detection test
