@@ -1,0 +1,2 @@
+Made the launch file with udev rules
+aruco_ros node was installed
