@@ -1,7 +1,7 @@
 Created a udev rule file 'usb' as subsystem; but it was not been detected;after some debugging it was directed to try subsystem as videoforlinux; it was kept pending
 installed aruco_ros package
 did camera calibration in other laptop also
-modified the single.launch file but it was crashing on launching; after a long debugging , ractified the error in launch file and then finally we could detect the aruco markers: individually also multiple.
+modified the single.launch file but it was crashing on launching; after a long debugging , rectified the error in launch file and then finally we could detect the aruco markers: single and also multiple.
 
 NEXT TASK
 -> complete the udev rule task.
