@@ -1,1 +1,7 @@
 made the yaml_to_camera_info node which gets the camera calibration matrix of iris camera into .yaml file
+
+Done aruco detection in gazebo.
+
+Things to do
+
+Read about mavros and mavsys,how to make .sh file,aliasing.
